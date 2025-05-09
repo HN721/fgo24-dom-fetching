@@ -1,6 +1,6 @@
-# Fetch Api
+# Rick and Morty Application
 
-Learn how to fetch Api
+This repo contains the source code of the Rick Morty Application using JavaScript DOM and Fetch API , learn how to see more deeply about how DOM works and explore the concept of JavaScript.
 
 ## Preview
 
